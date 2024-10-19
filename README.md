@@ -48,4 +48,5 @@ Building a user-friendly web application for real-time fraud detection.
 
 Resources :
 Data Link: https://www.kaggle.com/datasets/ealaxi/paysim1
+
 Research Link : https://www.researchgate.net/publication/372466905_Fraud_detection_with_natural_language_processing
